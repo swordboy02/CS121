@@ -1,0 +1,12 @@
+---
+:id: 52800279
+:submitters:
+- :name: Kanav Talwar
+  :email: ktalwar@umass.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-10-31 22:26:01.623187000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-10-31 15:26:01.623187000 Z
+:status: processed
+:score: 100.0
